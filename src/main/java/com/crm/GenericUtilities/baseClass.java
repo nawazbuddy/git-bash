@@ -19,6 +19,7 @@ import com.proudEdu.ObjectRepositories.teacherhomepage;
 public class baseClass {
     
 	//nawaz modifi
+	//nawazcalll
 	public WebDriver driver;
 	public static WebDriver sdriver;
 	public WebdriverUtility wblib=new WebdriverUtility();
